@@ -12,7 +12,7 @@ Para executar este projeto, você precisará de:
 
 ## Base de Dados
 
-A base de dados utilizada neste projeto é fornecida pelo Ministério da Saúde, por meio do Sistema de Informação do Programa Nacional de Imunizações (SI-PNI). Os dados disponibilizados são referentes à Campanha Nacional de Vacinação contra a Covid-19, com foco na parte 1 da campanha no estado do Ceará. Para mais informações consulta o [site da Campanha Nacional de Vacinação contra a Covid-19](https://dados.gov.br/dados/conjuntos-dados/covid-19-vacinacao1).
+A base de dados utilizada neste projeto é fornecida pelo Ministério da Saúde, por meio do Sistema de Informação do Programa Nacional de Imunizações (SI-PNI). Os dados disponibilizados são referentes à Campanha Nacional de Vacinação contra a Covid-19, com foco na parte 1 da campanha no estado do Ceará. Para mais informações consulte o [site da Campanha Nacional de Vacinação contra a Covid-19](https://dados.gov.br/dados/conjuntos-dados/covid-19-vacinacao1).
 
 
 ## Configuração
@@ -29,3 +29,5 @@ A base de dados utilizada neste projeto é fornecida pelo Ministério da Saúde,
    pip install pandas numpy
    ```
 3. Coloque sua base de dados no diretório do projeto.
+
+4. Adicione o caminho relativo a sua base de dados no arquivo **analise.ipnynb**
