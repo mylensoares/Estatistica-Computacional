@@ -30,4 +30,4 @@ A base de dados utilizada neste projeto é fornecida pelo Ministério da Saúde,
    ```
 3. Coloque sua base de dados no diretório do projeto.
 
-4. Adicione o caminho relativo a sua base de dados no arquivo **analise.ipnynb**
+4. Adicione o caminho relativo a sua base de dados no arquivo **analise.ipynb**
