@@ -2,6 +2,11 @@
 
 Este projeto faz parte da disciplina de Estatística Computacional e tem como objetivo realizar análises estatísticas em uma base de dados selecionada. As principais análises a serem realizadas incluem a criação de uma tabela de distribuição de frequência e o cálculo de estatísticas descritivas, como moda, mediana, média, variância e desvio padrão.
 
+# Equipe:
+- Carlos Bertran da Costa Santos
+- Lucas Pereira de Lira
+- Mylena Soaores da Silva Teles
+
 ## Requisitos
 
 Para executar este projeto, você precisará de:
